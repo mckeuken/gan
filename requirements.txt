@@ -1,0 +1,9 @@
+cloudpickle==2.2.1
+numpy==1.24.2
+pandas==1.5.3
+scipy==1.9.3
+scikit-learn==1.2.1
+sdgym==0.6.0
+sdmetrics==0.9.0
+sdv==0.18.0
+sweetviz==2.1.4
